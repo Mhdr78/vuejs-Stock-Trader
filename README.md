@@ -1,4 +1,4 @@
-# vue-form
+# vuejs-Stock-Trader
 
 > A Vue.js project
 
